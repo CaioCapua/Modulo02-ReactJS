@@ -72,7 +72,7 @@ export const GlobalStyle = createGlobalStyle`
         width: 100%;
         max-width: 576px;
         background: var(--background);
-        padding: 3rem;
+        padding: 8rem;
         position: relative;
         border-radius: 0.24rem;
     }
