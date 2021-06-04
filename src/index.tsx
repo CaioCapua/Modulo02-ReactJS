@@ -12,7 +12,7 @@ createServer({
         {
           id: 1,
           title: 'Transaction 1',
-          amlount: 400,
+          amount: 400,
           type: 'Deposit',
           category: 'Food',
           create_at: new Date()
